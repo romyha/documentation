@@ -52,7 +52,7 @@
     "mime": "^2.2.0",
     "module-deps-sortable": "5.0.0",
     "parse-filepath": "^1.0.2",
-    "pify": "^4.0.0",
+    "pify": "^4.0.1",
     "read-pkg-up": "^4.0.0",
     "remark": "^9.0.0",
     "remark-html": "^8.0.0",
