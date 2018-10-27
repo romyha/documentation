@@ -4281,9 +4281,9 @@ mdast-util-to-string@^1.0.0, mdast-util-to-string@^1.0.2:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/mdast-util-to-string/-/mdast-util-to-string-1.0.5.tgz#3552b05428af22ceda34f156afe62ec8e6d731ca"
 
-mdast-util-toc@^2.0.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/mdast-util-toc/-/mdast-util-toc-2.1.0.tgz#82b6b218577bb0e67b23abf5c3f7ac73a4b5389f"
+mdast-util-toc@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/mdast-util-toc/-/mdast-util-toc-3.0.0.tgz#297e2424fe24a11db054fa9ab65d305fdcfae56d"
   dependencies:
     github-slugger "^1.1.1"
     mdast-util-to-string "^1.0.2"
@@ -5406,11 +5406,11 @@ remark-stringify@^5.0.0:
     unherit "^1.0.4"
     xtend "^4.0.1"
 
-remark-toc@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/remark-toc/-/remark-toc-5.0.0.tgz#f1e13ed11062ad4d102b02e70168bd85015bf129"
+remark-toc@^5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/remark-toc/-/remark-toc-5.1.0.tgz#77250ac751c47a3d81686033de2f0ae42bc86fb4"
   dependencies:
-    mdast-util-toc "^2.0.0"
+    mdast-util-toc "^3.0.0"
     remark-slug "^5.0.0"
 
 remark@^9.0.0:
