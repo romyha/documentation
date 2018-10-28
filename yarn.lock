@@ -6497,9 +6497,9 @@ vfile-reporter@^5.0.0:
     unist-util-stringify-position "^1.0.0"
     vfile-statistics "^1.1.0"
 
-vfile-sort@^2.1.0:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/vfile-sort/-/vfile-sort-2.1.1.tgz#03acdc8a4d7870ecf0e35499f095ddd9d14cbc41"
+vfile-sort@^2.1.2:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/vfile-sort/-/vfile-sort-2.1.2.tgz#99aa1b644149f0e0114661af94bd514d2be7d466"
 
 vfile-statistics@^1.1.0:
   version "1.1.1"
