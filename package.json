@@ -67,7 +67,7 @@
     "unist-util-visit": "^1.3.0",
     "vfile": "^3.0.0",
     "vfile-reporter": "^5.0.0",
-    "vfile-sort": "^2.1.0",
+    "vfile-sort": "2.1.1",
     "vinyl": "^2.1.0",
     "vinyl-fs": "^3.0.2",
     "vue-template-compiler": "^2.5.16",
