@@ -1,0 +1,14 @@
+{
+  "name": "default_theme",
+  "version": "1.0.0",
+  "description": "![](screenshot.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "documentation": "^12.0.3"
+  }
+}

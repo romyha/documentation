@@ -1,5 +1,0 @@
-__tests__/fixture/*
-src/default_theme/*
-coverage/*
-lib/*
-declarations/*
